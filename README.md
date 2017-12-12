@@ -2,6 +2,10 @@
 
 Implemented Architecture of Pyramid Scene Parsing Network in Keras.
 
+（@薛犇：checkpoint 需要连外网下载，我这里有，如果有需要的话可以问我要）
+
+
+
 ### Setup
 1. Install dependencies:
     * Tensorflow (-gpu)
